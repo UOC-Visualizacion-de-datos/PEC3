@@ -18,4 +18,4 @@ Presentamos nuestro negocio en la PPT:
 1. Quiénes cancelan más reservas -grafíco de barras apiladas con los paises que más cancelan-
 2. La tipología de las cancelaciones según el tipo de reserva -barras paralelas para los principales paises según el tipo de reserva-
 3. Analizamos cómo la antelación marca una importante diferencia -heatmap con tramos para cada tipo de hotel junto a gráfica de líneas mostrando el tiempo en el eje X y el % de cancelaciones en el eje Y-
-4. Concluimos con un gráfico de tarta que muestra como esas altas tasas de cancelación se dan sobre todo en reservas hechas con mucha anticipación, lo que minimiza el problema y da tranquilidad a la dirección.
+4. Concluimos con un gráfico de tarta que muestra como esas altas tasas de cancelación se dan sobre todo en reservas hechas con mucha anticipación, lo que minimiza el problema, da tranquilidad a la dirección sobre el motivo del mismo y a la vez da pie para endurecer/mejorar las condiciones de reserva si pretendemos evitar tan alta tasa de cancelaciones.
