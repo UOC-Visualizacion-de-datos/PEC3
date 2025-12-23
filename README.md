@@ -6,7 +6,7 @@ Hemos usado el LLM Gemini 3.0 Flash Nano Banana para generar la portada de la pr
 Hemos convertido el fichero .Rmd proporcionado a lenguaje Python para poder generar las visualizaciones mostradas en la presentación.
 
 # Guión de la Historia
-Punto de inicio: La dirección de la cadena hotelera está preocupada por el alto volumen de cancelaciones que han visto que sufrimos.
+**Punto de inicio**: La dirección de la cadena hotelera está preocupada por el alto volumen de cancelaciones que han visto que sufrimos.
 
 Presentamos nuestro negocio en la PPT:
 - Comenzamos contando que ya ha pasado un tiempo y lo ilustramos con el desarrollo del negocio a lo largo del tiempo -gráfico de líneas con la evolución de reservas de ambos hoteles-.
